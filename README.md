@@ -4,7 +4,10 @@ Power BI report on Online Retail II dataset
 
 > **One-line summary:** _[e.g. An end-to-end Power BI solution turning 1M+ rows of messy transactional retail data into a governed star schema and an executive analytics report.]_
 
-![Executive Summary page]executive-summary-page.png
+**Questions this report answers:**
+1. What is our net revenue after cancellations, and how is it trending over time?
+2. Which customers are most valuable, and which are at risk of churning?
+3. How concentrated is revenue across the product catalogue — do a small number of products dominate, or is revenue spread broadly?
 
 ---
 
