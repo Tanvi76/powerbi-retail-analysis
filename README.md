@@ -4,7 +4,7 @@ Power BI report on Online Retail II dataset
 
 > **One-line summary:** _[e.g. An end-to-end Power BI solution turning 1M+ rows of messy transactional retail data into a governed star schema and an executive analytics report.]_
 
-![Executive Summary page](screenshots/01-executive-summary.png)
+![Executive Summary page]executive-summary-page.png
 
 ---
 
