@@ -9,7 +9,7 @@ UK giftware retailer, 1M+ transaction rows ([Online Retail II](https://archive.i
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+
 
 <img width="685" height="386" alt="Screenshot 2026-09-24 170228" src="https://github.com/user-attachments/assets/a8d669ee-c68e-41ac-a3f7-6cda41b91ed8" />
 
@@ -23,14 +23,14 @@ UK giftware retailer, 1M+ transaction rows ([Online Retail II](https://archive.i
 
 ## Data model
 
-![Star schema](screenshots/model.png)
+
 
 <img width="878" height="383" alt="Screenshot 2026-09-24 171059" src="https://github.com/user-attachments/assets/82db3348-e34c-47d8-ad87-5bd8f5e2c135" />
 
 
 ## Power Query pipeline
 
-![Applied Steps](screenshots/power-query.png)
+
 
 
 <img width="952" height="436" alt="Screenshot 2026-09-24 171303" src="https://github.com/user-attachments/assets/ceb1a2b5-de76-4ad1-b603-6f59a71798c9" />
