@@ -12,6 +12,13 @@ UK giftware retailer, 1M+ transaction rows ([Online Retail II](https://archive.i
 
 
 
+### Overview
+<img src="Retail.png" width="900" alt="Retail page">
+
+### Customer
+<img src="Customer.png" width="900" alt="Customer page">
+
+
 
 
 
