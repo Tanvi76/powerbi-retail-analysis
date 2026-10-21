@@ -11,13 +11,13 @@ UK giftware retailer, 1M+ transaction rows ([Online Retail II](https://archive.i
 
 
 
-<img width="685" height="386" alt="Screenshot 2026-09-24 170228" src="https://github.com/user-attachments/assets/a8d669ee-c68e-41ac-a3f7-6cda41b91ed8" />
 
 
-<img width="686" height="386" alt="Screenshot 2026-09-24 170441" src="https://github.com/user-attachments/assets/eaa69f4a-1518-4663-a1cf-874fc59d4044" />
 
 
-<img width="687" height="412" alt="Screenshot 2026-09-24 170555" src="https://github.com/user-attachments/assets/22ce4bdc-eb7a-4346-b79e-c997bc9f8918" />
+
+
+
 
 
 
